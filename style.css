@@ -409,7 +409,7 @@ footer img {
        
     }
     .lovestory .text {
-        background-color: rgba(246, 243, 239, 0.2); /* Convierte el color hexadecimal a valores numéricos y ajusta la transparencia */
+        background-color: rgba(246, 243, 239, 0.3); /* Convierte el color hexadecimal a valores numéricos y ajusta la transparencia */
        
         
     }
@@ -459,7 +459,7 @@ footer img {
      }
     .end {
         background-attachment: unset;
-        height:180px;
+        height:300px;
 
     }
 
